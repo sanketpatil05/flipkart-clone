@@ -44,16 +44,16 @@ npm install -g nodemon
 <img src="http://qatechhub.com/wp-content/uploads/2017/04/Flipkart_login_page.png"></img>
 <li>Landing page</li>
 <br>
-<img src="https://i.gadgets360cdn.com/large/flipkart_superr_sale_1535179029617.jpg"></img>
+<img src="https://i.pinimg.com/564x/fe/32/db/fe32db0192a7056354f16292154e65b2.jpg"></img>
 <li>Products page</li>
 <br>
-<img src=""></img>
+<img src="https://i.pinimg.com/564x/d8/f5/ff/d8f5ff3e8e2276a96dd3d88daa5aafea.jpg"></img>
 <li>Product description page</li>
 <br>
-<img src=""></img>
+<img src="https://i.pinimg.com/564x/33/a0/e8/33a0e8c66de194d372b250a92a8c9780.jpg"></img>
 <li>Cart page</li>
 <br>
-<img src=""></img>
+<img src="https://i.pinimg.com/564x/e0/75/2d/e0752dea0aafbf903bd62967f7487ef0.jpg"></img>
 <li>Payment page</li>
 <br>
-<img src=""></img>
+<img src="https://i.pinimg.com/564x/17/da/d9/17dad9a333b9b5cc75fb0fc072e9e8f9.jpg"></img>
