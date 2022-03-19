@@ -44,7 +44,7 @@ npm install -g nodemon
 <img src="http://qatechhub.com/wp-content/uploads/2017/04/Flipkart_login_page.png"></img>
 <li>Landing page</li>
 <br>
-<img src=""></img>
+<img src="https://i.gadgets360cdn.com/large/flipkart_superr_sale_1535179029617.jpg"></img>
 <li>Products page</li>
 <br>
 <img src=""></img>
