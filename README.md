@@ -7,12 +7,12 @@ This is the clone of Flipkart (www.flipkart.com). We started this project as a 3
 ## About Flipkart
 Flipkart is India's leading E-commerce marketplace with over 80 million products accross 80+ categories, headquartered at Bangalore, India. Flipkart's technology has enabled the customers to purchase the products with a single click at their home itself.
 ## Flow of the website
--When You land on hompage you should login first , for that click on login if already login in then just enter your ID and password. And if you are new then just create you credentials.
--After that you see all variety of products on the landing page, if you can click on electronics section you will go to the product page on that you will click on laptop, fridge, or camera section you will see all products realted to that category.
--After landing on particular category you can see all the products , where you can sort the products according to brand, and price also you can add a product into the cart. 
--After adding items to the cart you will click on the cart to go into the cart page.
--On cart page you can see all the items that you have added. You can delete the item from cart page if you want.
--After clicking on next you will redirected to payment page where you can entre all your payment details , after clicking on payment your order will complete.
+- When You land on hompage you should login first , for that click on login if already login in then just enter your ID and password. And if you are new then just create you credentials.
+- After that you see all variety of products on the landing page, if you can click on electronics section you will go to the product page on that you will click on laptop, fridge, or camera section you will see all products realted to that category.
+- After landing on particular category you can see all the products , where you can sort the products according to brand, and price also you can add a product into the cart. 
+- After adding items to the cart you will click on the cart to go into the cart page.
+- On cart page you can see all the items that you have added. You can delete the item from cart page if you want.
+- After clicking on next you will redirected to payment page where you can entre all your payment details , after clicking on payment your order will complete.
 
 ## Frameworks Used 🌟
 <li>HTML</li>
